@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\aluun\\Desktop\\flutter_lessons\\Alchnyi_chal-main\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "C:\\flutter_work\\buffet\\C-A-hackathon-main\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\aluun\\Desktop\\flutter_lessons\\Alchnyi_chal-main\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "C:\\flutter_work\\buffet\\C-A-hackathon-main\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

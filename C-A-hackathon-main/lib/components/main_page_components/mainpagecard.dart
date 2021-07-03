@@ -45,7 +45,7 @@ class _MainPageCardState extends State<MainPageCard> {
                     decoration: BoxDecoration(color: AppColors.greywithopacity),
                     height: 5.0.h,
                     child: Text(
-                      widget.model.bludo,
+                      state.img,
                       textAlign: TextAlign.left,
                       style: TextStyle(
                         fontWeight: FontWeight.w400,
